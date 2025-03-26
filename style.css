@@ -301,6 +301,9 @@ section {
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
   text-align: center;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: flex-start; */
 }
 
 .section-container {
